@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabPulse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37fe4beb96e8ee475fc32827e831a3dc9a2b2dc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5500df4bacc8cc8b6623dfc180fb6fe321fa32e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabPulse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabPulse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
