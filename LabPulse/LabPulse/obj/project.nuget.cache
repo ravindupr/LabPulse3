@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "FC8PDM7/DJQ=",
+  "success": true,
+  "projectFilePath": "D:\\VP projects\\LabPulse\\LabPulse\\LabPulse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codeanalysis.common\\5.0.0\\microsoft.codeanalysis.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\5.0.0\\microsoft.codeanalysis.visualbasic.5.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.objectpool\\10.0.0\\microsoft.extensions.objectpool.10.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mysql.data\\9.7.0\\mysql.data.9.7.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\reportviewercore.winforms\\15.1.33\\reportviewercore.winforms.15.1.33.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.servicemodel.http\\10.0.652802\\system.servicemodel.http.10.0.652802.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.servicemodel.primitives\\10.0.652802\\system.servicemodel.primitives.10.0.652802.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\zstdsharp.port\\0.8.6\\zstdsharp.port.0.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}
