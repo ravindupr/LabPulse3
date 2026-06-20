@@ -1,4 +1,5 @@
-﻿namespace LabPulse
+
+namespace LabPulse
 {
     partial class profile
     {
@@ -116,4 +117,5 @@
         private Label label1;
         private LinkLabel linkLabel2;
     }
+
 }
